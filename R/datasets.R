@@ -6,7 +6,7 @@
 #' child in the disaster. PTSD symptoms were reported using the civilian version
 #' of the Posttraumatic Checklist, which consists of 17 items, each assessing
 #' one of the DSM-IV symptoms of PTSD. Participants rated each item on a
-#' five-point scale ranging from ``not at all'' to ``extremely'' to indicate how
+#' five-point scale ranging from  "not at all" to "extremely" to indicate how
 #' much the symptom bothered them in the past month.
 #'
 #' @format A matrix with 362 rows and 17 columns:
@@ -116,6 +116,47 @@ NULL
 #' @name ADHD
 #'
 #' @usage data("ADHD")
+#'
+#' @references
+#'
+#' \insertAllCited{}
+#'
+NULL
+#'#' Items measuring boredom proneness
+#'
+#' A dataset containing items measuring proneness to boredom. The dataset is a
+#' subset of the data from \insertCite{McNallyEtAl_2015}{bgms}, and contains the
+#' 8 items from the Short Boredom Proneness Scale (SBPS). Each item was scored
+#' on a 7-point Likert scale ranging from 1 ("strongly disagree") to 7
+#' ("strongly agree"). The SBPS was administered either in French (as translated
+#' by \insertCite{McNallyEtAl_2015}{bgms}) or in English (the language of the
+#' original scale, by \insertCite{McNallyEtAl_2015}{bgms}).
+#'
+#' @format A matrix with 986 rows and 9 columns:
+#' \describe{
+#'   \item{loose_ends}{I often find myself at “loose ends,” not knowing what to
+#'   do.}
+#'   \item{entertain}{I find it hard to entertain myself.}
+#'   \item{repetitive}{Many things I have to do are repetitive and monotonous.}
+#'   \item{stimulation}{It takes more stimulation to get me going than most
+#'   people.}
+#'   \item{motivated}{I don't feel motivated by most things that I do.}
+#'   \item{keep_interest}{In most situations, it is hard for me to find
+#'   something to do or see to keep me interested.}
+#'   \item{sit_around}{Much of the time, I just sit around doing nothing.}
+#'   \item{half_dead_dull}{Unless I am doing something exciting, even dangerous,
+#'   I feel half-dead and dull.}
+#' }
+#'
+#' @source \url{http://psychosystems.org/wp-content/uploads/2014/10/Wenchuan.csv}
+#'
+#' @docType data
+#'
+#' @keywords datasets
+#'
+#' @name Boredom
+#'
+#' @usage data("Boredom")
 #'
 #' @references
 #'
