@@ -58,12 +58,12 @@ NULL
 #' ADHD symptoms of children aged 6-8 years
 #'
 #' A data set containing items measuring symptoms of attention deficit
-#' hyperactivity disorder (ADHD) \insertCite{McNallyEtAl_2015}{bgms}
+#' hyperactivity disorder (ADHD) \insertCite{Silk_2019_ADHD}{bgms}
 #' Participants are a subsample from a community cohort, the Children's Attention
 #' Project (CAP); 355 children, aged 6-8 years, of which 146 were diagnosed with
 #' ADHD and 209 were not. ADHD symptoms were assessed during structured
 #' face-to-face interviews with the children's parents. The NIMH Diagnostic
-#' Interview Schedule for Children IV-DISC-iV \insertCite{McNallyEtAl_2015}{bgms}
+#' Interview Schedule for Children IV-DISC-iV \insertCite{Shaffer_2000_nimh}{bgms}
 #' contains a total of 18 symptoms, of which 9 Inattentive and 9
 #' Hyperactive/Impulsive. Each symptom was scored as either present (1) or
 #' absent (0), based on the parents' statements.
@@ -125,12 +125,13 @@ NULL
 #' Items measuring boredom proneness
 #'
 #' A dataset containing items measuring proneness to boredom. The dataset is a
-#' subset of the data from \insertCite{McNallyEtAl_2015}{bgms}, and contains the
-#' 8 items from the Short Boredom Proneness Scale (SBPS). Each item was scored
-#' on a 7-point Likert scale ranging from 1 ("strongly disagree") to 7
-#' ("strongly agree"). The SBPS was administered either in French (as translated
-#' by \insertCite{McNallyEtAl_2015}{bgms}) or in English (the language of the
-#' original scale, by \insertCite{McNallyEtAl_2015}{bgms}).
+#' subset of the data from \insertCite{Martarelli_2023_Boredom;textual}{bgms},
+#' and contains the 8 items from the Short Boredom Proneness Scale (SBPS). Each
+#' item was scored on a 7-point Likert scale ranging from 1 ("strongly disagree")
+#' to 7 ("strongly agree"). The SBPS was administered either in French (as
+#' translated by \insertCite{Martarelli_2023_Boredom;textual}{bgms}) or in
+#' English (the language of the original scale, by
+#' \insertCite{Struk_2015_boredom;textual}{bgms}).
 #'
 #' @format A matrix with 986 rows and 9 columns:
 #' \describe{
