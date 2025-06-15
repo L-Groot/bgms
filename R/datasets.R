@@ -107,7 +107,7 @@ NULL
 #'   \item{turn}{Often has difficulty awaiting turn (awaiting turn, HI8)}
 #' }
 #'
-#' @source \url{http://psychosystems.org/wp-content/uploads/2014/10/Wenchuan.csv}
+#' @source \url{https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0211053/1/pone.0211053.s004.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250615%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250615T185822Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=741b8581218652cafcd63d7f83b12decd082e78c3b00ffa33f558081a2b10f9b4400d92a6010b969a418b4e4567e7afab4e7e5ca444154d906161df088a811b6005d29400cf6a88e227498c3738fb663153b48256d9f591b83aaa420904d4b33ffd85cca194e963dfc36d2505b00450713f957e74e80aff7df67d9ba33f73fb8b5d1bc448d88f405dbbdb20cb02daa2277da9d8a866c52a952a866953ebb9b5523a9e89773041b52ed25e13bf3b906cdcbe9556b997b19fd55bfd12f1239b0594b775edb5c379b3b5a9f2d1691f436c2cd1d8d94e259a4c90e859f18f6efc2fd6bc399d2f295ed40df73e27f9ae983d27050274e752188a1c8c9238c987cf236}
 #'
 #' @docType data
 #'
@@ -148,7 +148,7 @@ NULL
 #'   I feel half-dead and dull.}
 #' }
 #'
-#' @source \url{http://psychosystems.org/wp-content/uploads/2014/10/Wenchuan.csv}
+#' @source \url{https://osf.io/qhux8}
 #'
 #' @docType data
 #'
