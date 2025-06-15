@@ -55,7 +55,7 @@
 #' \insertAllCited{}
 #'
 NULL
-#'#' ADHD symptoms of children aged 6-8 years
+#' ADHD symptoms of children aged 6-8 years
 #'
 #' A data set containing items measuring symptoms of attention deficit
 #' hyperactivity disorder (ADHD) \insertCite{McNallyEtAl_2015}{bgms}
@@ -122,7 +122,7 @@ NULL
 #' \insertAllCited{}
 #'
 NULL
-#'#' Items measuring boredom proneness
+#' Items measuring boredom proneness
 #'
 #' A dataset containing items measuring proneness to boredom. The dataset is a
 #' subset of the data from \insertCite{McNallyEtAl_2015}{bgms}, and contains the
