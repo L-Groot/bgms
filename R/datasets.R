@@ -72,7 +72,7 @@ NULL
 #' @format A matrix with 355 rows and 19 columns. (I) and (HI) indicate Inattentive
 #' and Hyperactive/Impulsive symptoms, respectively.
 #' \describe{
-#'   \item{group}{ADHD diagnosis (1) vs no ADHD diagnosis (0)}
+#'   \item{group}{1 = ADHD diagnosis, 0 = no ADHD diagnosis}
 #'   \item{avoid}{Often avoids, dislikes, or is reluctant to engage in tasks
 #'   that require sustained mental effort (I)}
 #'   \item{closeatt}{Often fails to give close attention to details or makes
