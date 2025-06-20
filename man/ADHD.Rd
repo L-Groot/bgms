@@ -5,47 +5,43 @@
 \alias{ADHD}
 \title{ADHD symptoms of children aged 6-8 years}
 \format{
-A matrix with 355 rows and 19 columns:
+A matrix with 355 rows and 19 columns. (I) and (HI) indicate Inattentive
+and Hyperactive/Impulsive symptoms, respectively.
 \describe{
   \item{group}{ADHD diagnosis (1) vs no ADHD diagnosis (0)}
   \item{avoid}{Often avoids, dislikes, or is reluctant to engage in tasks
-  that require sustained mental effort (avoids mental effort, I6)}
+  that require sustained mental effort (I)}
   \item{closeatt}{Often fails to give close attention to details or makes
-  careless mistakes in schoolwork, work, or other activities (fails close
-  attention, I1)}
-  \item{distract}{Is often easily distracted by extraneous stimuli (easily
-  distracted, I8)}
-  \item{forget}{Is often forgetful in daily activities (forgetful, I9)}
+  careless mistakes in schoolwork, work, or other activities (I)}
+  \item{distract}{Is often easily distracted by extraneous stimuli (I)}
+  \item{forget}{Is often forgetful in daily activities (I)}
   \item{instruct}{Often does not follow through on instructions and fails to
-  finish schoolwork, chores, or duties in the workplace (does not follow
-  instructions, I4)}
+  finish schoolwork, chores, or duties in the workplace (I)}
   \item{listen}{Often does not seem to listen when spoken to directly
-  (does not listen, I3)}
-  \item{loses}{Often loses things necessary for tasks or activities (loses
-  things, I7)}
-  \item{org}{Often has difficulty organizing tasks and activities (difficulty
-  organizing, I5)}
+  (I)}
+  \item{loses}{Often loses things necessary for tasks or activities (I)}
+  \item{org}{Often has difficulty organizing tasks and activities (I)}
   \item{susatt}{Often has difficulty sustaining attention in tasks or play
-  activities (difficulty sustaining attention, I2)}
+  activities (I)}
   \item{blurts}{Often blurts out answers before questions have been completed
-  (blurts, HI7)}
+  (HI)}
   \item{fidget}{Often fidgets with hands or feet or squirms in seat
-  (fidgets, HI1)}
-  \item{interrupt}{Often interrupts or intrudes on others (interrupts, HI9)}
+  (HI)}
+  \item{interrupt}{Often interrupts or intrudes on others (HI)}
   \item{motor}{Is often "on the go" or often acts as if "driven by a motor"
-  (driven by motor, HI5)}
+  (HI)}
   \item{quiet}{Often has difficulty playing or engaging in leisure activities
-  quietly (difficulty playing quietly, HI4)}
+  quietly (HI)}
   \item{runs}{Often runs about or climbs excessively in situations in which
-  it is inappropriate (runs excessively, HI3)}
+  it is inappropriate (HI)}
   \item{seat}{Often leaves seat in classroom or in other situations in which
-  remaining seated is expected (leaves seat, HI2)}
-  \item{talks}{Often talks excessively (talks, HI6)}
-  \item{turn}{Often has difficulty awaiting turn (awaiting turn, HI8)}
+  remaining seated is expected (HI)}
+  \item{talks}{Often talks excessively (HI)}
+  \item{turn}{Often has difficulty awaiting turn (HI)}
 }
 }
 \source{
-\url{}
+\url{https://doi.org/10.1371/journal.pone.0211053.s004}
 }
 \usage{
 data("ADHD")
