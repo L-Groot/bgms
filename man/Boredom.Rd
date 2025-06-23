@@ -32,10 +32,9 @@ A dataset containing items measuring proneness to boredom. The dataset is a
 subset of the data from \insertCite{Martarelli_2023_Boredom;textual}{bgms},
 and contains the 8 items from the Short Boredom Proneness Scale (SBPS). Each
 item was scored on a 7-point Likert scale ranging from 1 ("strongly disagree")
-to 7 ("strongly agree"). The SBPS was administered either in French (as
-translated by \insertCite{Martarelli_2023_Boredom;textual}{bgms}) or in
-English (the language of the original scale, by
-\insertCite{Struk_2015_boredom;textual}{bgms}).
+to 7 ("strongly agree"). The SBPS was administered either in English (the
+language of the original scale, by \insertCite{Struk_2015_boredom;textual}{bgms})
+or French (as translated by \insertCite{Martarelli_2023_Boredom;textual}{bgms}).
 }
 \references{
 \insertAllCited{}
