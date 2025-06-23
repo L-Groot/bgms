@@ -1,7 +1,7 @@
 #' Post-traumatic stress disorder symptoms of Wenchuan earthquake survivors
 #'
 #' A data set containing items measuring symptoms of posttraumatic stress
-#' disorder (PTSD) \insertCite{McNallyEtAl_2015;textual}{bgms}. Participants were 362
+#' disorder (PTSD) \insertCite{McNallyEtAl_2015}{bgms}. Participants were 362
 #' Chinese adults who survived the Wenchuan earthquake and lost at least one
 #' child in the disaster. PTSD symptoms were reported using the civilian version
 #' of the Posttraumatic Checklist, which consists of 17 items, each assessing
@@ -123,13 +123,13 @@ NULL
 #' Items measuring boredom proneness
 #'
 #' A dataset containing items measuring proneness to boredom. The dataset is a
-#' subset of the data from \insertCite{Martarelli_2023_Boredom}{bgms},
+#' subset of the data from \insertCite{Martarelli_2023_Boredom;textual}{bgms},
 #' and contains the 8 items from the Short Boredom Proneness Scale (SBPS). Each
 #' item was scored on a 7-point Likert scale ranging from 1 ("strongly disagree")
 #' to 7 ("strongly agree"). The SBPS was administered either in French (as
-#' translated by \insertCite{Martarelli_2023_Boredom}{bgms}) or in
+#' translated by \insertCite{Martarelli_2023_Boredom;textual}{bgms}) or in
 #' English (the language of the original scale, by
-#' \insertCite{Struk_2015_boredom}{bgms}).
+#' \insertCite{Struk_2015_boredom;textual}{bgms}).
 #'
 #' @format A matrix with 986 rows and 9 columns:
 #' \describe{
