@@ -44,7 +44,7 @@ data("Wenchuan")
 }
 \description{
 A data set containing items measuring symptoms of posttraumatic stress
-disorder (PTSD) \insertCite{McNallyEtAl_2015}{bgms}. Participants were 362
+disorder (PTSD) \insertCite{McNallyEtAl_2015;textual}{bgms}. Participants were 362
 Chinese adults who survived the Wenchuan earthquake and lost at least one
 child in the disaster. PTSD symptoms were reported using the civilian version
 of the Posttraumatic Checklist, which consists of 17 items, each assessing
