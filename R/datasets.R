@@ -48,6 +48,8 @@
 #'
 #' @name Wenchuan
 #'
+#' @rdname Wenchuan
+#'
 #' @usage data("Wenchuan")
 #'
 #' @references

@@ -22,7 +22,6 @@ URL: https://maartenmarsman.github.io/bgms/
 BugReports: https://github.com/MaartenMarsman/bgms/issues
 Imports: Rcpp (>= 1.0.7), Rdpack, methods
 RdMacros: Rdpack
-Rdpack: REFERENCES.bib
 LinkingTo: Rcpp, RcppProgress, RcppArmadillo
 RoxygenNote: 7.3.2
 Depends: 
