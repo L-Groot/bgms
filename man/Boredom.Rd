@@ -22,7 +22,8 @@ A matrix with 986 rows and 9 columns:
 }
 }
 \source{
-\url{https://osf.io/qhux8}
+\insertCite{Martarelli_2023_Boredom;textual}{bgms}. Data retrieved from \url{https://osf.io/qhux8}.
+Licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). https://creativecommons.org/licenses/by/4.0/
 }
 \usage{
 data("Boredom")

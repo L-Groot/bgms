@@ -104,7 +104,8 @@ NULL
 #'   \item{turn}{Often has difficulty awaiting turn (HI)}
 #' }
 #'
-#' @source \url{https://doi.org/10.1371/journal.pone.0211053.s004}
+#' @source \insertCite{Silk_2019_ADHD;textual}{bgms}. Data retrieved from \url{https://doi.org/10.1371/journal.pone.0211053.s004}.
+#' Licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). https://creativecommons.org/licenses/by/4.0/
 #'
 #' @docType data
 #'
@@ -146,7 +147,9 @@ NULL
 #'   I feel half-dead and dull.}
 #' }
 #'
-#' @source \url{https://osf.io/qhux8}
+#' @source \insertCite{Martarelli_2023_Boredom;textual}{bgms}. Data retrieved from \url{https://osf.io/qhux8}.
+#' Licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). https://creativecommons.org/licenses/by/4.0/
+#'
 #'
 #' @docType data
 #'

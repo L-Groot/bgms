@@ -1,6 +1,6 @@
 Package: bgms
 Type: Package
-Title: Bayesian Analysis of Networks of Binary and/or Ordinal Variables
+Title: Bayesian Analysis of Networks of Binary and Ordinal Variables
 Version: 0.1.4.3
 Date: 2025-02-11
 Authors@R: c(
@@ -17,6 +17,7 @@ Authors@R: c(
   )
 Maintainer: Maarten Marsman <m.marsman@uva.nl>
 Description: Bayesian variable selection methods for analyzing the structure of a Markov Random Field model for a network of binary and/or ordinal variables. Details of the implemented methods can be found in: Marsman, van den Bergh, and Haslbeck (in press) <doi:10.31234/osf.io/ukwrf>.
+Copyright: Includes datasets 'ADHD' and 'Boredom', which are licensed under CC-BY 4. See individual data documentation for license and citation.
 License: GPL (>= 2)
 URL: https://maartenmarsman.github.io/bgms/
 BugReports: https://github.com/MaartenMarsman/bgms/issues

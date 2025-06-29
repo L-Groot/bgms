@@ -41,7 +41,8 @@ and Hyperactive/Impulsive symptoms, respectively.
 }
 }
 \source{
-\url{https://doi.org/10.1371/journal.pone.0211053.s004}
+\insertCite{Silk_2019_ADHD;textual}{bgms}. Data retrieved from \url{https://doi.org/10.1371/journal.pone.0211053.s004}.
+Licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). https://creativecommons.org/licenses/by/4.0/
 }
 \usage{
 data("ADHD")
